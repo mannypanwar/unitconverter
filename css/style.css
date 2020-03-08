@@ -1,0 +1,18 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  color: #fff;
+  background-color: #1b262c;
+}
+
+.input-heading {
+  margin-top: 70px;
+}
+
+h4 {
+  display: inline-block;
+}
+
+.output-visual {
+  display: inline-block;
+  margin-left: 5px;
+}
